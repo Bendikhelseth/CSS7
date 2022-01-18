@@ -1,0 +1,25 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+}
+
+.container-1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container-1 div{
+    border:3px black solid;
+    padding:10px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    background-color: salmon;
+}
+
+h3:hover {
+    cursor: grab;
+}
+
+
+  
